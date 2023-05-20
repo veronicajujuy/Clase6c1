@@ -1,1 +1,3 @@
-console.log("hola camada 1")
+let variable = "camada 1"
+
+console.log("hola" + variable)
